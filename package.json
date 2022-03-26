@@ -1,7 +1,6 @@
 {
   "name": "wearecreatives",
   "version": "1.0.0",
-  "description": "",
   "main": "tailwind.config.js",
   "scripts": {
     "start": "vite",
@@ -18,5 +17,14 @@
   "devDependencies": {
     "tailwindcss": "^3.0.23",
     "vite": "^2.8.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imtowhidulislam/TailwindCssProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imtowhidulislam/TailwindCssProject/issues"
+  },
+  "homepage": "https://github.com/imtowhidulislam/TailwindCssProject#readme",
+  "description": ""
 }

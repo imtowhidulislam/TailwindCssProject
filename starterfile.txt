@@ -1,0 +1,2 @@
+📌📌 Add a node-modules file into the root folder..
+> npm install -D tailwindcss
