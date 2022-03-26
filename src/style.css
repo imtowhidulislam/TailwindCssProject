@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ! Fixing the image */
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.card {
+  @apply w-24 rounded-full overflow-hidden;
+}
+.margin__definer {
+  width: 100%;
+  max-width: 90rem;
+  /* padding-inline: 2rem; */
+}

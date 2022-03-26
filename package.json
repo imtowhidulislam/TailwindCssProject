@@ -1,0 +1,22 @@
+{
+  "name": "wearecreatives",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "start": "vite",
+    "build-css": "tailwindcss build src/style.css -o public/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.4",
+    "init": "^0.1.2",
+    "postcss": "^8.4.12"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.23",
+    "vite": "^2.8.6"
+  }
+}
